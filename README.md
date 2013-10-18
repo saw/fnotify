@@ -2,6 +2,8 @@
 
 ## Installation
 
+Get growl.
+
 Put this script inside .irssi/scripts
 
 Inside your startup file (`.irssi/startup`):
